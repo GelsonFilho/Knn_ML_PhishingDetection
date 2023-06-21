@@ -1,2 +1,2 @@
 # Knn_ML_PhishingDetection
-Detecção de Phishing com Machine Learning utilizando o algoritmo KNN (k-vizinhos mais próximos)
+Phishing Detection with Machine Learning using the K-Nearest Neighbors (KNN) algorithm. The project is of an academic nature, aiming to acquire a deeper understanding. The experiment was conducted in two ways. The easier approach involved using artificial intelligence libraries, while the other approach involved implementing all the object-oriented algorithms and the logic underlying the KNN algorithm. In this repository, you will find all the code (with and without libraries), as well as the final research work that documents all the knowledge acquired throughout the experiments.
